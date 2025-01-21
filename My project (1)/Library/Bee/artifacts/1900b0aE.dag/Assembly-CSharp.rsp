@@ -354,6 +354,7 @@
 -analyzer:"C:/Users/Ma-ya/Documents/Unity/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Script/Ball.cs"
 "Assets/Script/Player.cs"
+"Assets/Script/SelfDestroy.cs"
 -langversion:9.0
 
 /deterministic
